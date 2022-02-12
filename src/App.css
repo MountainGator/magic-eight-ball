@@ -1,0 +1,10 @@
+#root {
+  height:100%;
+}
+
+
+.container {
+  height:100%;
+  width: 90%;
+  margin: auto;
+}
